@@ -1,0 +1,6 @@
+bin,metric,n_units,sense,anti,deficit,lo,hi,ratio,ratio_lo95,ratio_hi95,source
+pc_all,obs r10,14267,1366,1636,16.5037,10.7653,22.32,0.834963,0.7768,0.892347,17_observed/results/17_obs_strata.tsv (md5 05fa92e3ec73a6388fa9acbb6c6919c2)
+pc_silent,obs r10,2984,64,78,17.9487,-13.7998,43.7562,0.820513,0.562438,1.138,17_observed/results/17_obs_strata.tsv (md5 05fa92e3ec73a6388fa9acbb6c6919c2)
+pc_active,obs r10,10087,1224,1483,17.4646,11.597,22.91,0.825354,0.7709,0.88403,17_observed/results/17_obs_strata.tsv (md5 05fa92e3ec73a6388fa9acbb6c6919c2)
+lncRNA,obs r10,14971,552,621,11.1111,0.869085,20.3528,0.888889,0.796472,0.991309,17_observed/results/17_obs_strata.tsv (md5 05fa92e3ec73a6388fa9acbb6c6919c2)
+intergenic,obs r10,2607,301,291,-3.43643,-19.2157,11.1111,1.03436,0.888889,1.19216,17_observed/results/17_obs_strata.tsv (md5 05fa92e3ec73a6388fa9acbb6c6919c2)

@@ -1,0 +1,3 @@
+line,n_pairs,n_host_genes,spearman_rho_hostsignal_vs_withinpair_diff,rho_lo95,rho_hi95,spearman_p_pairs,active_minus_silent_median_diff,active_minus_silent_lo95,active_minus_silent_hi95,source
+K562,1862,1128,0.000138635,-0.0447936,0.0443906,0.99523,0.405247,-0.971331,1.33048,23_robustness/results/23b/23b_all_trend.tsv (md5 fb0e31eee7e4b7b6d436300a2473781f)
+HCT116,2857,1405,-0.0180387,-0.0540728,0.0168504,0.335126,0.0795184,-0.642048,0.671111,23_robustness/results/23b/23b_all_trend.tsv (md5 fb0e31eee7e4b7b6d436300a2473781f)

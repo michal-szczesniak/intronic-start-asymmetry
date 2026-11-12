@@ -1,0 +1,5 @@
+processing,label,comparison,contrast,metric,value,lo95,hi95,p,source
+primary,ENCODE default processing,pooled over activity thirds (pre-specified),M3-M1,obs r10,4.49931,-12.9433,20.673,0.614,26_methylation/results/26b_meth_primary_strata.tsv (md5 489e9e17ed5f9b901c7df59b00e4525e)
+primary,ENCODE default processing,activity thirds weighted equally (post hoc),M3-M1,obs r10,24.4916,1.37877,47.9587,0.037,26_methylation/results/26c_posthoc_primary_contrasts.tsv (md5 991170f570246c94e5f957973fac7430)
+alternative,earlier processing,pooled over activity thirds (pre-specified),M3-M1,obs r10,1.66107,-15.5441,17.6122,0.874,26_methylation/results/26b_meth_alternative_strata.tsv (md5 a8863ec55221e806e584f89e2c73eb49)
+alternative,earlier processing,activity thirds weighted equally (post hoc),M3-M1,obs r10,19.6159,-4.57866,42.7267,0.114,26_methylation/results/26c_posthoc_alternative_contrasts.tsv (md5 a57ea151227757d7eb671ac71b1916f7)

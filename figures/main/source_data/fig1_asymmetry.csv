@@ -1,0 +1,13 @@
+line,stratum,depth_lo,depth_hi,n_intron_active,n_host_genes,n_intergenic,n_blocks,median_diff,sense_weaker_pct,pct_lo95,pct_hi95,comparison,source,n_pairs,wilcoxon_signed_rank_p
+K562,0,12,36,457,391,664,482,-1.47475,64.0204,28.3037,78.2609,depth band,23_robustness/results/23b/23b_all_strata.tsv (md5 831e39775656ddd25d278958bda87b13),,
+K562,1,36,60,378,321,741,505,-0.310262,19.3505,-10.0002,45.455,depth band,23_robustness/results/23b/23b_all_strata.tsv (md5 831e39775656ddd25d278958bda87b13),,
+K562,2,60,99,332,291,758,487,-0.15295,10.0591,-31.4292,36.1159,depth band,23_robustness/results/23b/23b_all_strata.tsv (md5 831e39775656ddd25d278958bda87b13),,
+K562,3,99,204.4,287,241,818,518,-0.951686,48.2972,22.257,61.6383,depth band,23_robustness/results/23b/23b_all_strata.tsv (md5 831e39775656ddd25d278958bda87b13),,
+K562,4,204.4,16843,157,135,952,558,-0.863143,45.0246,-6.67838,68.1524,depth band,23_robustness/results/23b/23b_all_strata.tsv (md5 831e39775656ddd25d278958bda87b13),,
+HCT116,0,10,51,604,448,1135,665,-0.244468,15.5873,0.959976,29.1502,depth band,23_robustness/results/23b/23b_all_strata.tsv (md5 831e39775656ddd25d278958bda87b13),,
+HCT116,1,51,88,539,435,1209,711,-0.345135,21.2766,6.98676,35.7151,depth band,23_robustness/results/23b/23b_all_strata.tsv (md5 831e39775656ddd25d278958bda87b13),,
+HCT116,2,88,149,540,423,1188,671,-0.339227,20.9535,2.42215,34.1672,depth band,23_robustness/results/23b/23b_all_strata.tsv (md5 831e39775656ddd25d278958bda87b13),,
+HCT116,3,149,312,459,339,1273,681,-0.522141,30.3663,5.27659,46.6844,depth band,23_robustness/results/23b/23b_all_strata.tsv (md5 831e39775656ddd25d278958bda87b13),,
+HCT116,4,312,37453,347,271,1388,670,-0.262929,16.6606,-1.25651,36.339,depth band,23_robustness/results/23b/23b_all_strata.tsv (md5 831e39775656ddd25d278958bda87b13),,
+K562,,,,,964,,,-0.577639,32.9941,12.8205,45.5539,matched,23_robustness/results/23b/23b_all_matched.tsv (md5 6842246140217fa309ef8f1007a5be39),1610,0.00127367
+HCT116,,,,,1187,,,-0.333424,20.6349,12.0562,29.047,matched,23_robustness/results/23b/23b_all_matched.tsv (md5 6842246140217fa309ef8f1007a5be39),2489,2.45559e-08

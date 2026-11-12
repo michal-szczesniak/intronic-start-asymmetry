@@ -1,0 +1,5 @@
+data_set,subset,stratum,metric,min_reads,n_units,sense,anti,deficit,lo,hi,p_boot,ratio,ratio_lo95,ratio_hi95,source
+HCT116 PRO-cap,active,all,strong,24,10538,927,1092,15.1099,8.41642,21.138,,0.848901,0.78862,0.915836,figures/figS_position/data/28_HCT116_strata.tsv (md5 82f53f3dbcccd96709260750ccffaa2b)
+HCT116 PRO-cap,intergenic,all,strong,24,2607,211,211,0,-19.1938,16.2291,,1,0.837709,1.19194,figures/figS_position/data/28_HCT116_strata.tsv (md5 82f53f3dbcccd96709260750ccffaa2b)
+K562 GRO-cap,active,all,strong,14,9907,2450,2771,11.5843,7.04925,15.7005,,0.884157,0.842995,0.929508,figures/figS_position/data/29_K562_GROcap_strata.tsv (md5 15a7e68bbc6c418b55ef6188bcc13dc6)
+K562 GRO-cap,intergenic,all,strong,14,2607,546,573,4.71204,-5.8214,13.5522,,0.95288,0.864478,1.05821,figures/figS_position/data/29_K562_GROcap_strata.tsv (md5 15a7e68bbc6c418b55ef6188bcc13dc6)

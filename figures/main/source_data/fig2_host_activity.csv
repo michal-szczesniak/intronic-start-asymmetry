@@ -1,0 +1,11 @@
+line,group,n_pairs,n_host_genes,host_signal_min,host_signal_median,host_signal_max,median_diff,sense_weaker_pct,pct_lo95,pct_hi95,wilcoxon_signed_rank_p,source
+K562,silent,148,95,0,0,0,-0.919965,47.1478,-35.2321,70.1424,0.0511743,23_robustness/results/23b/23b_all_host_activity.tsv (md5 9e0c0867065493fc00173cb1fe4f68d5)
+K562,weak,104,70,1,2,4,-0.0815028,5.49273,-151.903,60.8969,0.905667,23_robustness/results/23b/23b_all_host_activity.tsv (md5 9e0c0867065493fc00173cb1fe4f68d5)
+K562,active_T1,537,319,5,105,225,-0.232446,14.881,-22.9253,38.7097,0.282782,23_robustness/results/23b/23b_all_host_activity.tsv (md5 9e0c0867065493fc00173cb1fe4f68d5)
+K562,active_T2,536,320,225,363,537,-0.934195,47.6666,17.4749,60.9874,0.00131012,23_robustness/results/23b/23b_all_host_activity.tsv (md5 9e0c0867065493fc00173cb1fe4f68d5)
+K562,active_T3,537,325,539,842,6275,-0.403356,24.3902,-18.7684,46.7648,0.407745,23_robustness/results/23b/23b_all_host_activity.tsv (md5 9e0c0867065493fc00173cb1fe4f68d5)
+HCT116,silent,214,149,0,0,0,-0.397035,24.0582,-24.7166,48.5348,0.213671,23_robustness/results/23b/23b_all_host_activity.tsv (md5 9e0c0867065493fc00173cb1fe4f68d5)
+HCT116,weak,155,69,1,1,4,-0.0565835,3.84615,-26.9582,48.0191,0.0850273,23_robustness/results/23b/23b_all_host_activity.tsv (md5 9e0c0867065493fc00173cb1fe4f68d5)
+HCT116,active_T1,830,410,5,200,506,-0.277933,17.5228,0.251279,32.7243,0.0444322,23_robustness/results/23b/23b_all_host_activity.tsv (md5 9e0c0867065493fc00173cb1fe4f68d5)
+HCT116,active_T2,829,369,506,893,1302,-0.263751,16.708,1.65752,29.9744,0.00250564,23_robustness/results/23b/23b_all_host_activity.tsv (md5 9e0c0867065493fc00173cb1fe4f68d5)
+HCT116,active_T3,829,409,1303,2166,25905,-0.38109,23.2143,7.2987,38.0339,6.5371e-05,23_robustness/results/23b/23b_all_host_activity.tsv (md5 9e0c0867065493fc00173cb1fe4f68d5)

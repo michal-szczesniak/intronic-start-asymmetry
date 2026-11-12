@@ -1,0 +1,13 @@
+line,feature,name,pre_specified,n_pairs,n_host_genes,diff_pp,lo95_pp,hi95_pp,p,p_holm
+K562,TATA,TATA box,True,1610,964,-0.251553,-1.13923,0.604295,0.54,1
+HCT116,TATA,TATA box,True,2489,1187,-0.271193,-0.791157,0.227433,0.289,1
+K562,Inr,Initiator (Inr),True,1610,964,-0.369565,-4.59192,4.08422,0.892,1
+HCT116,Inr,Initiator (Inr),True,2489,1187,-2.55524,-6.25953,1.54592,0.205,1
+K562,DPE,Downstream promoter element,True,1610,964,1.85404,-1.92954,6.09778,0.365,1
+HCT116,DPE,Downstream promoter element,True,2489,1187,-0.918039,-4.36177,2.3128,0.592,1
+K562,YY1f,"YY1 motif, forward",True,1610,964,-1.2205,-2.32247,-0.0846052,0.038,0.19
+HCT116,YY1f,"YY1 motif, forward",True,2489,1187,-0.249096,-1.07681,0.596644,0.55,1
+K562,YY1r,"YY1 motif, reverse",True,1610,964,0.139752,-1.19404,1.39779,0.826,1
+HCT116,YY1r,"YY1 motif, reverse",True,2489,1187,0.0160707,-0.756765,0.726821,0.999,1
+K562,TATA1,"TATA box, one mismatch",False,1610,964,-2.40683,-4.54807,-0.283918,0.03,
+HCT116,TATA1,"TATA box, one mismatch",False,2489,1187,-0.343511,-1.72331,1.03412,0.62,

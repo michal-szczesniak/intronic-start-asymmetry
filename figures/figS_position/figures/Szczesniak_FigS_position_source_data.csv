@@ -1,0 +1,72 @@
+panel,scope,what,group,n_genes,n_pairs,n_sites,sense,antisense,estimate,lo95,hi95,p_boot,source
+A,K562 PRO-cap,"strong sites, active protein-coding genes",P1,10087,,,389,597,34.8409,25.9053,42.3089,,28_K562_strata.tsv
+A,K562 PRO-cap,"strong sites, active protein-coding genes",P2,10087,,,256,295,13.2203,-1.49475,26.3525,,28_K562_strata.tsv
+A,K562 PRO-cap,"strong sites, active protein-coding genes",P3,10087,,,249,248,-0.403226,-18.4366,13.8464,,28_K562_strata.tsv
+A,K562 PRO-cap,"strong sites, active protein-coding genes",P4,10087,,,193,199,3.01508,-13.2967,17.8388,,28_K562_strata.tsv
+A,K562 PRO-cap,"strong sites, active protein-coding genes",P5,10087,,,137,144,4.86111,-16.3418,21.9512,,28_K562_strata.tsv
+A,K562 PRO-cap,contrast 3' fifth minus 5' fifth (pre-specified),P5-P1,10087,,,,,-29.9798,-51.9227,-10.5509,0.002,28_K562_strata.tsv
+A,K562 GRO-cap,"strong sites, active protein-coding genes",P1,9907,,,778,1058,26.465,19.889,32.6684,,29_K562_GROcap_strata.tsv
+A,K562 GRO-cap,"strong sites, active protein-coding genes",P2,9907,,,550,543,-1.28913,-11.592,8.76072,,29_K562_GROcap_strata.tsv
+A,K562 GRO-cap,"strong sites, active protein-coding genes",P3,9907,,,463,490,5.5102,-6.27622,16.0787,,29_K562_GROcap_strata.tsv
+A,K562 GRO-cap,"strong sites, active protein-coding genes",P4,9907,,,403,410,1.70732,-11.6488,12.5015,,29_K562_GROcap_strata.tsv
+A,K562 GRO-cap,"strong sites, active protein-coding genes",P5,9907,,,256,270,5.18519,-9.16682,18.2766,,29_K562_GROcap_strata.tsv
+A,K562 GRO-cap,contrast 3' fifth minus 5' fifth (pre-specified),P5-P1,9907,,,,,-21.2798,-37.9155,-6.35102,0.004,29_K562_GROcap_strata.tsv
+A,HCT116 PRO-cap,"strong sites, active protein-coding genes",P1,10538,,,249,395,36.962,27.6511,45.2516,,28_HCT116_strata.tsv
+A,HCT116 PRO-cap,"strong sites, active protein-coding genes",P2,10538,,,199,214,7.00935,-9.82683,21.3135,,28_HCT116_strata.tsv
+A,HCT116 PRO-cap,"strong sites, active protein-coding genes",P3,10538,,,201,209,3.82775,-12.0784,17.5322,,28_HCT116_strata.tsv
+A,HCT116 PRO-cap,"strong sites, active protein-coding genes",P4,10538,,,150,151,0.662252,-20.3407,18.4988,,28_HCT116_strata.tsv
+A,HCT116 PRO-cap,"strong sites, active protein-coding genes",P5,10538,,,128,123,-4.06504,-28.0915,14.2879,,28_HCT116_strata.tsv
+A,HCT116 PRO-cap,contrast 3' fifth minus 5' fifth (pre-specified),P5-P1,10538,,,,,-41.0271,-66.7661,-19.9839,0.001,28_HCT116_strata.tsv
+B,K562 PRO-cap,sites_strong_bin5,1-5 kb,10087,,,232,431,46.1717,37.6255,54.3049,,28b_K562_strata.tsv
+B,K562 PRO-cap,sites_strong_bin5,5-10 kb,10087,,,153,141,-8.51064,-36.0922,13.955,,28b_K562_strata.tsv
+B,K562 PRO-cap,sites_strong_bin5,10-20 kb,10087,,,153,160,4.375,-15.4452,21.2294,,28b_K562_strata.tsv
+B,K562 PRO-cap,sites_strong_bin5,20-40 kb,10087,,,180,176,-2.27273,-21.8761,14.9434,,28b_K562_strata.tsv
+B,K562 PRO-cap,sites_strong_bin5,40-80 kb,10087,,,181,228,20.614,5.50447,33.9141,,28b_K562_strata.tsv
+B,K562 PRO-cap,sites_strong_bin5,>=80 kb,10087,,,325,347,6.34006,-6.87295,17.6821,,28b_K562_strata.tsv
+B,K562 PRO-cap,contrast 1-5 kb minus the rest,1-5-rest,10087,,,,,40.4683,29.9167,51.7903,0.0005,28b_K562_strata.tsv
+B,K562 GRO-cap,sites_strong_bin5,1-5 kb,9907,,,412,667,38.2309,31.2295,44.9229,,29_GROcap_28b_strata.tsv
+B,K562 GRO-cap,sites_strong_bin5,5-10 kb,9907,,,257,265,3.01887,-13.8302,17.2285,,29_GROcap_28b_strata.tsv
+B,K562 GRO-cap,sites_strong_bin5,10-20 kb,9907,,,289,302,4.30464,-11.1507,17.1068,,29_GROcap_28b_strata.tsv
+B,K562 GRO-cap,sites_strong_bin5,20-40 kb,9907,,,361,352,-2.55682,-17.1729,11.0832,,29_GROcap_28b_strata.tsv
+B,K562 GRO-cap,sites_strong_bin5,40-80 kb,9907,,,437,449,2.67261,-10.0738,13.5788,,29_GROcap_28b_strata.tsv
+B,K562 GRO-cap,sites_strong_bin5,>=80 kb,9907,,,694,736,5.70652,-3.6484,13.6711,,29_GROcap_28b_strata.tsv
+B,K562 GRO-cap,contrast 1-5 kb minus the rest (pre-specified for GRO-cap),1-5-rest,9907,,,,,35.094,26.0926,43.8102,0.0005,29_GROcap_28b_strata.tsv
+B,HCT116 PRO-cap,sites_strong_bin5,1-5 kb,10538,,,111,254,56.2992,46.5746,65.1607,,28b_HCT116_strata.tsv
+B,HCT116 PRO-cap,sites_strong_bin5,5-10 kb,10538,,,117,112,-4.46429,-30.695,17.3936,,28b_HCT116_strata.tsv
+B,HCT116 PRO-cap,sites_strong_bin5,10-20 kb,10538,,,105,98,-7.14286,-35.8074,16.1911,,28b_HCT116_strata.tsv
+B,HCT116 PRO-cap,sites_strong_bin5,20-40 kb,10538,,,159,177,10.1695,-7.79221,25.93,,28b_HCT116_strata.tsv
+B,HCT116 PRO-cap,sites_strong_bin5,40-80 kb,10538,,,139,142,2.11268,-19.8355,20.8662,,28b_HCT116_strata.tsv
+B,HCT116 PRO-cap,sites_strong_bin5,>=80 kb,10538,,,296,309,4.20712,-9.7671,16.3049,,28b_HCT116_strata.tsv
+B,HCT116 PRO-cap,contrast 1-5 kb minus the rest,1-5-rest,10538,,,,,53.6739,40.3087,65.5335,0.0005,28b_HCT116_strata.tsv
+C,K562,pairs_dist_bin,1-5 kb,247,287,,,,65.3927,43.992,79.0417,,28b_K562_strata.tsv
+C,K562,pairs_dist_bin,5-10 kb,137,166,,,,-54.5651,-210.651,14.6708,,28b_K562_strata.tsv
+C,K562,pairs_dist_bin,10-20 kb,140,174,,,,42.6045,-13.019,67.5543,,28b_K562_strata.tsv
+C,K562,pairs_dist_bin,20-40 kb,178,237,,,,-3.17308,-77.1875,45.595,,28b_K562_strata.tsv
+C,K562,pairs_dist_bin,40-80 kb,208,271,,,,23.4336,-33.2731,45.3256,,28b_K562_strata.tsv
+C,K562,pairs_dist_bin,>=80 kb,253,475,,,,33.8942,-5.00107,58.3605,,28b_K562_strata.tsv
+C,HCT116,pairs_dist_bin,1-5 kb,255,340,,,,50.7694,34.728,66.124,,28b_HCT116_strata.tsv
+C,HCT116,pairs_dist_bin,5-10 kb,135,194,,,,6.45058,-46.0996,30.7362,,28b_HCT116_strata.tsv
+C,HCT116,pairs_dist_bin,10-20 kb,201,295,,,,-23.9859,-67.821,20.0568,,28b_HCT116_strata.tsv
+C,HCT116,pairs_dist_bin,20-40 kb,256,387,,,,26.0591,7.24496,42.5143,,28b_HCT116_strata.tsv
+C,HCT116,pairs_dist_bin,40-80 kb,266,446,,,,16.8718,-3.12579,36.9708,,28b_HCT116_strata.tsv
+C,HCT116,pairs_dist_bin,>=80 kb,375,827,,,,18.7692,-0.828795,31.8686,,28b_HCT116_strata.tsv
+D,pooled,sites,"near start, away",,,299,,,26.1628,8.33088,41.6244,,28e_cells.tsv
+D,pooled,sites,"near start, island",,,729,,,57.8947,50.1901,65.0924,,28e_cells.tsv
+D,pooled,sites,"far start, away",,,2984,,,3.68421,-3.19093,9.99321,,28e_cells.tsv
+D,pooled,sites,"far start, island",,,714,,,7.02703,-5.08497,18.2485,,28e_cells.tsv
+D,pooled,sites,R3: near start & away  minus  far & away,,,,,,22.4786,3.76277,38.887,0.016,28e_cells.tsv
+D,pooled,sites,R4: far & island  minus  far & away,,,,,,3.34282,-10.9744,16.3381,0.63,28e_cells.tsv
+D,pooled,pairs,"near start, away",,221,,,,45.0429,17.5161,66.3485,,28e_cells.tsv
+D,pooled,pairs,"near start, island",,406,,,,59.8441,46.4869,72.4807,,28e_cells.tsv
+D,pooled,pairs,"far start, away",,3050,,,,14.401,3.99935,24.0744,,28e_cells.tsv
+D,pooled,pairs,"far start, island",,422,,,,28.4131,-0.3003,44.6156,,28e_cells.tsv
+D,pooled,pairs,R1: near start & away  minus  far & away,,,,,,30.6419,1.70947,54.0634,0.04,28e_cells.tsv
+D,pooled,pairs,R2: far & island  minus  far & away,,,,,,14.0121,-15.2527,33.5076,0.352,28e_cells.tsv
+E,pooled,sites,T1,,,,,,39.9765,18.336,60.3666,0.0005,28f_cells.tsv
+E,pooled,sites,T2,,,,,,42.133,27.5149,55.6375,0.0005,28f_cells.tsv
+E,pooled,sites,T3,,,,,,47.9774,35.4212,60.0738,0.0005,28f_cells.tsv
+E,pooled,sites,T3-T1 (interaction),,,,,,8.00098,-15.4075,32.1537,0.523,28f_cells.tsv
+E,pooled,pairs,T1,,,,,,23.0411,-15.042,49.0489,0.231,28f_cells.tsv
+E,pooled,pairs,T2,,,,,,53.3516,34.2996,76.1745,0.0005,28f_cells.tsv
+E,pooled,pairs,T3,,,,,,40.5167,9.35335,64.7287,0.012,28f_cells.tsv
+E,pooled,pairs,T3-T1 (interaction),,,,,,17.4756,-22.3458,63.3781,0.348,28f_cells.tsv

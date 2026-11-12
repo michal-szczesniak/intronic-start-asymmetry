@@ -1,0 +1,10 @@
+class,puffin_d,procapnet,both,source
+no effect,16012573,16001124,14709254,"step 19c log (intronic variants of protein-coding genes, chr8 + chr9) [log-derived; no result table]"
+creates sense start (weak),11777,122758,726,"step 19c log (intronic variants of protein-coding genes, chr8 + chr9) [log-derived; no result table]"
+creates antisense start (weak),12753,118418,870,"step 19c log (intronic variants of protein-coding genes, chr8 + chr9) [log-derived; no result table]"
+creates sense start (medium),2760,32315,123,"step 19c log (intronic variants of protein-coding genes, chr8 + chr9) [log-derived; no result table]"
+removes sense start (weak),11759,121061,704,"step 19c log (intronic variants of protein-coding genes, chr8 + chr9) [log-derived; no result table]"
+"strong gain, sense",24941,38268,2049,"step 19c log (intronic variants of protein-coding genes, chr8 + chr9) [log-derived; no result table]"
+"strong gain, antisense",29461,37194,2229,"step 19c log (intronic variants of protein-coding genes, chr8 + chr9) [log-derived; no result table]"
+"moderate gain, sense",83550,102588,4039,"step 19c log (intronic variants of protein-coding genes, chr8 + chr9) [log-derived; no result table]"
+"strong loss, sense",23563,39971,1932,"step 19c log (intronic variants of protein-coding genes, chr8 + chr9) [log-derived; no result table]"

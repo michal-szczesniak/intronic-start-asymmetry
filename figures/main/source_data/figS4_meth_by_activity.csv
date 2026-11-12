@@ -1,0 +1,6 @@
+group,label,n_genes,p10,q1,median,q3,p90,source
+silent,silent,2428,0.0147056,0.0186937,0.0365289,0.133581,0.380265,26_methylation/results/26b_meth_primary_genes.tsv (md5 5e20e9b7996c19bbd06bdc34b56cb8a7)
+low,weakly active,1078,0.0174227,0.0260846,0.0697067,0.251988,0.534435,26_methylation/results/26b_meth_primary_genes.tsv (md5 5e20e9b7996c19bbd06bdc34b56cb8a7)
+A1,"active, least active third",3023,0.039906,0.119696,0.410784,0.673545,0.814343,26_methylation/results/26b_meth_primary_genes.tsv (md5 5e20e9b7996c19bbd06bdc34b56cb8a7)
+A2,"active, middle third",3069,0.454386,0.662683,0.789939,0.858323,0.899408,26_methylation/results/26b_meth_primary_genes.tsv (md5 5e20e9b7996c19bbd06bdc34b56cb8a7)
+A3,"active, most active third",3084,0.552045,0.710573,0.81069,0.871237,0.906296,26_methylation/results/26b_meth_primary_genes.tsv (md5 5e20e9b7996c19bbd06bdc34b56cb8a7)
